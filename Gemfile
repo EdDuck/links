@@ -13,6 +13,9 @@ source "http://rubygems.org"
 gem "jekyll"
 gem "thin"
 
+# from cloudflare
+gem "jekyll-sass-converter", "~> 2.0"
+
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 
 
