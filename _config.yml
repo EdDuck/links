@@ -5,10 +5,10 @@ name: Eduard
 tagline: Hi, I’m Eduard and I’m crazy about IT and photography. I’m always curious about IT, AI and sci-fi. I love to learn new things and be open to the world. I love to challenge myself and improve my skills. I’m also a friendly and sociable person who loves to chat with others.
 
 # YOUR/BRAND IMAGE URL
-# Image_URL: https://cdn-icons-png.flaticon.com/512/2445/2445055.png
+Image_URL: https://cdn-icons-png.flaticon.com/512/2445/2445055.png
 
 # CHANGE THE BACKGROUND IMAGE OF THE WEBSITE BY JUST ADDING THE IMAGE URL
-Cover_Image: https://source.unsplash.com/random
+Cover_Image: https://source.unsplash.com/random/?cyberpunk
 
 # SOCIAL MEDIA
 links:
