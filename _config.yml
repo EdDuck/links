@@ -2,10 +2,10 @@
 name: Eduard
 
 # YOUR BRAND/PERSONAL TAGLINE
-tagline: чего-то понаписано тут
+tagline: Hi, I’m Eduard and I’m crazy about IT and photography. I’m always curious about IT, AI and sci-fi. I love to learn new things and be open to the world. I love to challenge myself and improve my skills. I’m also a friendly and sociable person who loves to chat with others.
 
 # YOUR/BRAND IMAGE URL
-Image_URL: https://cdn-icons-png.flaticon.com/512/2445/2445055.png
+# Image_URL: https://cdn-icons-png.flaticon.com/512/2445/2445055.png
 
 # CHANGE THE BACKGROUND IMAGE OF THE WEBSITE BY JUST ADDING THE IMAGE URL
 Cover_Image: https://source.unsplash.com/random
@@ -18,7 +18,7 @@ links:
     # FACEBOOK
   - Name: Facebook
     URL: https://www.facebook.com
-    Username: domumniy
+    Username: edgubaidullin
     Color: '#3b5998'
     Icon-Class: fab fa-facebook
 
@@ -30,25 +30,25 @@ links:
     Icon-Class: fab fa-instagram
 
     # TWITTER
-  - Name: Twitter
-    URL: https://twitter.com
-    Username: jokenews365
-    Color: '#1DA1F2'
-    Icon-Class: fab fa-twitter
+#  - Name: Twitter
+#    URL: https://twitter.com
+#    Username: jokenews365
+#    Color: '#1DA1F2'
+#    Icon-Class: fab fa-twitter
 
     # Cal.com
-  - Name: Cal.com
-    URL: https://cal.com
-    Username: harshtrivedi
-    Color: '#232323'
-    Icon-Class: fa fa-calendar-check
+ # - Name: Cal.com
+ #   URL: https://cal.com
+ #   Username: harshtrivedi
+ #   Color: '#232323'
+ #   Icon-Class: fa fa-calendar-check
 
     # CLUBHOUSE
-  - Name: Clubhouse
-    URL: https://www.clubhouse.com
-    Username: '@harsh98trivedi'
-    Color: '#f1c40f'
-    Icon-Class: fas fa-hand-paper -mt-0.5
+ # - Name: Clubhouse
+ #   URL: https://www.clubhouse.com
+ #   Username: '@harsh98trivedi'
+ #   Color: '#f1c40f'
+ #   Icon-Class: fas fa-hand-paper -mt-0.5
     
     # LINKEDIN
   - Name: LinkedIn
@@ -65,11 +65,11 @@ links:
     Icon-Class: fab fa-youtube
 
 #     # GITHUB
-#   - Name: GitHub
-#     URL: http://github.com
-#     Username: 
-#     Color: '#6e5494'
-#     Icon-Class: fab fa-github
+   - Name: GitHub
+     URL: http://github.com
+     Username: egubaidullin
+     Color: '#6e5494'
+     Icon-Class: fab fa-github
 
 #     # EMAIL
 #   - Name: Email
@@ -115,12 +115,12 @@ links:
 #   #   Color: '#25d366'
 #   #   Icon-Class: fab fa-whatsapp
 
-#     # TELEGRAM
-#   - Name: Telegram
-#     URL: http://telegram.me
-#     Username: theharshtrivedi
-#     Color: '#0088cc'
-#     Icon-Class: fab fa-telegram-plane
+     # TELEGRAM
+   - Name: Telegram
+     URL: http://telegram.me
+     Username: Gravity365
+     Color: '#0088cc'
+     Icon-Class: fab fa-telegram-plane
 
 #     # SNAPCHAT
 #   - Name: Snapchat
