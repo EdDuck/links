@@ -28,6 +28,27 @@ links:
     Username: gubaidullin_eduard
     Color: '#DD2A7B'
     Icon-Class: fab fa-instagram
+    
+    # LINKEDIN
+  - Name: LinkedIn
+    URL: https://www.linkedin.com/in
+    Username: egub
+    Color: '#2867B2'
+    Icon-Class: fab fa-linkedin-in
+
+    # GITHUB
+  - Name: GitHub
+    URL: http://github.com
+    Username: egubaidullin
+    Color: '#6e5494'
+    Icon-Class: fab fa-github
+
+    # TELEGRAM
+  - Name: Telegram
+    URL: http://telegram.me
+    Username: Gravity365
+    Color: '#0088cc'
+    Icon-Class: fab fa-telegram-plane
 
     # TWITTER
 #  - Name: Twitter
@@ -49,27 +70,12 @@ links:
  #   Username: '@harsh98trivedi'
  #   Color: '#f1c40f'
  #   Icon-Class: fas fa-hand-paper -mt-0.5
-    
-    # LINKEDIN
-  - Name: LinkedIn
-    URL: https://www.linkedin.com/in
-    Username: egub
-    Color: '#2867B2'
-    Icon-Class: fab fa-linkedin-in
-
     # YOUTUBE
-  - Name: YouTube
-    URL: https://www.youtube.com/channel
-    Username: 
-    Color: '#ff0000'
-    Icon-Class: fab fa-youtube
-
-#     # GITHUB
-   - Name: GitHub
-     URL: http://github.com
-     Username: egubaidullin
-     Color: '#6e5494'
-     Icon-Class: fab fa-github
+#  - Name: YouTube
+#    URL: https://www.youtube.com/channel
+#    Username: 
+#    Color: '#ff0000'
+#    Icon-Class: fab fa-youtube
 
 #     # EMAIL
 #   - Name: Email
@@ -108,19 +114,12 @@ links:
 #     Color: '#FF4500'
 #     Icon-Class: fab fa-reddit-alien
 
-#   #   # WHATSAPP
-#   # - Name: WhatsApp
-#   #   URL: https://wa.me
-#   #   Username: '+1123456789'
-#   #   Color: '#25d366'
-#   #   Icon-Class: fab fa-whatsapp
-
-     # TELEGRAM
-   - Name: Telegram
-     URL: http://telegram.me
-     Username: Gravity365
-     Color: '#0088cc'
-     Icon-Class: fab fa-telegram-plane
+#     # WHATSAPP
+#   - Name: WhatsApp
+#     URL: https://wa.me
+#     Username: '+1123456789'
+#     Color: '#25d366'
+#     Icon-Class: fab fa-whatsapp
 
 #     # SNAPCHAT
 #   - Name: Snapchat
